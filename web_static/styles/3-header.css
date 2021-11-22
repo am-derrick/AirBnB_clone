@@ -3,3 +3,11 @@ header {
     height: 70px;
     width: 100%;
     border-bottom: 1px solid #CCCCCC;
+}
+
+.logo {
+    background-image: url('../images/logo.png');
+    padding-left: 20px;
+    height: 70px;
+    width: 140px;
+}
